@@ -1,0 +1,407 @@
+2026-02-17 02:08:42,093 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-17 02:08:42,093 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 02:08:42,093 - app.main - INFO - lifespan:23 - Environment: development
+2026-02-17 02:08:42,093 - app.main - INFO - lifespan:24 - Debug: True
+2026-02-17 02:08:42,093 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-17 02:08:42,097 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 02:12:25,406 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:12:44,429 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:12:53,733 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:12:56,078 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:12:59,166 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:13:52,479 - app.main - INFO - lifespan:32 - Shutting down application
+2026-02-17 02:15:03,398 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-17 02:15:03,409 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 02:15:03,409 - app.main - INFO - lifespan:23 - Environment: development
+2026-02-17 02:15:03,409 - app.main - INFO - lifespan:24 - Debug: True
+2026-02-17 02:15:03,411 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-17 02:15:03,412 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 02:15:51,532 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:17:12,246 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:17:21,872 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:19:01,249 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:22:26,012 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:22:47,820 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:23:58,900 - app.main - WARNING - validation_exception_handler:89 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:25:08,628 - app.main - INFO - lifespan:32 - Shutting down application
+2026-02-17 02:26:24,436 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 02:26:24,436 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 02:26:24,436 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 02:26:24,436 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 02:26:24,436 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 02:26:24,436 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 02:26:50,483 - app.main - INFO - lifespan:33 - Shutting down application
+2026-02-17 02:26:52,924 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 02:26:52,924 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 02:26:52,924 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 02:26:52,927 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 02:26:52,927 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 02:26:52,929 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 02:28:05,367 - app.main - WARNING - validation_exception_handler:93 - Validation error: [{'type': 'missing', 'loc': ('body', 'file'), 'msg': 'Field required', 'input': None, 'url': 'https://errors.pydantic.dev/2.5/v/missing'}]
+2026-02-17 02:30:07,231 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: Screenshot 2026-02-17 014154.png, size: 484456 bytes
+2026-02-17 02:30:18,004 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_d938e1ed-8665-40d8-a341-31bc8465dbac_Screenshot 2026-02-17 014154.png
+2026-02-17 02:30:22,824 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_d938e1ed-8665-40d8-a341-31bc8465dbac_Screenshot 2026-02-17 014154_20260217_023022.jpg
+2026-02-17 02:30:22,851 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 15619.35ms
+2026-02-17 02:32:09,019 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: Screenshot 2026-02-17 014154.png, size: 484456 bytes
+2026-02-17 02:32:09,021 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_2f5ea5a3-82d8-4cd6-a6b0-12516deae5ca_Screenshot 2026-02-17 014154.png
+2026-02-17 02:32:13,860 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_2f5ea5a3-82d8-4cd6-a6b0-12516deae5ca_Screenshot 2026-02-17 014154_20260217_023213.jpg
+2026-02-17 02:32:13,885 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4866.00ms
+2026-02-17 02:36:20,213 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 02:36:20,215 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 02:36:20,215 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 02:36:20,215 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 02:36:20,221 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 02:36:20,226 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 02:37:08,965 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: Screenshot 2026-02-17 014154.png, size: 484456 bytes
+2026-02-17 02:37:10,154 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_28d94c8b-1275-4d68-8e24-8dfc104312fc_Screenshot 2026-02-17 014154.png
+2026-02-17 02:37:14,762 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_28d94c8b-1275-4d68-8e24-8dfc104312fc_Screenshot 2026-02-17 014154_20260217_023714.jpg
+2026-02-17 02:37:14,791 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 5826.02ms
+2026-02-17 02:38:01,884 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_28d94c8b-1275-4d68-8e24-8dfc104312fc_Screenshot 2026-02-17 014154_20260217_023714.jpg
+2026-02-17 02:41:25,535 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: Screenshot 2026-02-17 014154.png, size: 484456 bytes
+2026-02-17 02:41:25,539 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_e77e3ba4-6a89-4074-ac91-1a3704bbebf8_Screenshot 2026-02-17 014154.png
+2026-02-17 02:41:30,007 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_e77e3ba4-6a89-4074-ac91-1a3704bbebf8_Screenshot 2026-02-17 014154_20260217_024130.jpg
+2026-02-17 02:41:30,026 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4491.18ms
+2026-02-17 02:43:50,574 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: Screenshot 2026-02-17 014154.png, size: 484456 bytes
+2026-02-17 02:43:50,582 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_fefe0772-6f68-4c7b-931b-abfd86a93da8_Screenshot 2026-02-17 014154.png
+2026-02-17 02:43:55,066 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_fefe0772-6f68-4c7b-931b-abfd86a93da8_Screenshot 2026-02-17 014154_20260217_024355.jpg
+2026-02-17 02:43:55,088 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4514.22ms
+2026-02-17 03:45:51,839 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 03:45:51,839 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 03:45:51,839 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 03:45:51,839 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 03:45:51,839 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 03:45:51,839 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 03:48:54,524 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: Screenshot 2026-02-17 014154.png, size: 484456 bytes
+2026-02-17 03:48:55,989 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_2be3d1c6-af1b-4ef2-9d28-8dd528039e69_Screenshot 2026-02-17 014154.png
+2026-02-17 03:49:00,709 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_2be3d1c6-af1b-4ef2-9d28-8dd528039e69_Screenshot 2026-02-17 014154_20260217_034900.jpg
+2026-02-17 03:49:00,743 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 6218.71ms
+2026-02-17 03:49:14,372 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_2be3d1c6-af1b-4ef2-9d28-8dd528039e69_Screenshot 2026-02-17 014154_20260217_034900.jpg
+2026-02-17 08:12:02,619 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 08:12:02,620 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 08:12:02,621 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 08:12:02,623 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 08:12:02,624 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 08:12:02,626 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 08:23:21,329 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 08:23:21,330 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 08:23:21,331 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 08:23:21,331 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 08:23:21,333 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 08:23:21,334 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 08:40:03,781 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 08:40:03,782 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 08:40:03,782 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 08:40:03,783 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 08:40:03,783 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 08:40:03,785 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 08:40:50,212 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 68566.jpg, size: 45328 bytes
+2026-02-17 08:40:51,396 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_ed596609-6549-4f48-8500-4cb4029c7bf1_68566.jpg
+2026-02-17 08:40:55,854 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_ed596609-6549-4f48-8500-4cb4029c7bf1_68566_20260217_084055.jpg
+2026-02-17 08:40:55,877 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 5664.71ms
+2026-02-17 08:40:59,311 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_ed596609-6549-4f48-8500-4cb4029c7bf1_68566_20260217_084055.jpg
+2026-02-17 08:41:33,147 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 68540.jpg, size: 52630 bytes
+2026-02-17 08:41:33,151 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_dc66d4e1-4661-415b-ae6f-6e0fe38d92c1_68540.jpg
+2026-02-17 08:41:38,031 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_dc66d4e1-4661-415b-ae6f-6e0fe38d92c1_68540_20260217_084138.jpg
+2026-02-17 08:41:38,060 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4912.87ms
+2026-02-17 08:41:54,744 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 68540.jpg, size: 52630 bytes
+2026-02-17 08:41:54,747 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_dc244e46-4708-43f2-82ab-de6186c9b1f4_68540.jpg
+2026-02-17 08:41:59,608 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_dc244e46-4708-43f2-82ab-de6186c9b1f4_68540_20260217_084159.jpg
+2026-02-17 08:41:59,635 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4891.14ms
+2026-02-17 08:42:01,840 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_dc244e46-4708-43f2-82ab-de6186c9b1f4_68540_20260217_084159.jpg
+2026-02-17 08:42:28,472 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 10973.jpg, size: 47934 bytes
+2026-02-17 08:42:28,474 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_1f945d44-1d54-4eaf-9239-1c2ae116dcd9_10973.jpg
+2026-02-17 08:42:33,171 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_1f945d44-1d54-4eaf-9239-1c2ae116dcd9_10973_20260217_084233.jpg
+2026-02-17 08:42:33,194 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4725.84ms
+2026-02-17 08:42:35,669 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_1f945d44-1d54-4eaf-9239-1c2ae116dcd9_10973_20260217_084233.jpg
+2026-02-17 08:43:42,227 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 10973.bmp, size: 112942 bytes
+2026-02-17 08:43:42,227 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_c5508c51-b41e-4f4c-b0f1-f9daeb87f230_10973.bmp
+2026-02-17 08:43:46,903 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_c5508c51-b41e-4f4c-b0f1-f9daeb87f230_10973_20260217_084346.jpg
+2026-02-17 08:43:46,940 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4712.84ms
+2026-02-17 08:43:50,045 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_c5508c51-b41e-4f4c-b0f1-f9daeb87f230_10973_20260217_084346.jpg
+2026-02-17 08:44:29,941 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 68540.bmp, size: 112942 bytes
+2026-02-17 08:44:29,943 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_525f4fe6-3955-46c1-ad03-d756ba8882b2_68540.bmp
+2026-02-17 08:44:35,153 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_525f4fe6-3955-46c1-ad03-d756ba8882b2_68540_20260217_084435.jpg
+2026-02-17 08:44:35,180 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 5239.73ms
+2026-02-17 08:44:37,053 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_525f4fe6-3955-46c1-ad03-d756ba8882b2_68540_20260217_084435.jpg
+2026-02-17 08:44:43,898 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_525f4fe6-3955-46c1-ad03-d756ba8882b2_68540_20260217_084435.jpg
+2026-02-17 08:44:59,759 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 68566..bmp, size: 112942 bytes
+2026-02-17 08:44:59,760 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_332f0208-3b99-4033-9b2c-a97415c6dbc5_68566..bmp
+2026-02-17 08:45:04,447 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_332f0208-3b99-4033-9b2c-a97415c6dbc5_68566._20260217_084504.jpg
+2026-02-17 08:45:04,483 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4723.90ms
+2026-02-17 08:45:06,539 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_332f0208-3b99-4033-9b2c-a97415c6dbc5_68566._20260217_084504.jpg
+2026-02-17 08:45:17,824 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 74905.bmp, size: 112942 bytes
+2026-02-17 08:45:17,824 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_0e34973e-bf82-4609-a4e9-98d820f018a1_74905.bmp
+2026-02-17 08:45:22,788 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_0e34973e-bf82-4609-a4e9-98d820f018a1_74905_20260217_084522.jpg
+2026-02-17 08:45:22,823 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4998.53ms
+2026-02-17 08:45:24,717 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_0e34973e-bf82-4609-a4e9-98d820f018a1_74905_20260217_084522.jpg
+2026-02-17 08:45:57,137 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: 85722.bmp, size: 112942 bytes
+2026-02-17 08:45:57,140 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_12b00185-0219-4222-9651-66efe39b619c_85722.bmp
+2026-02-17 08:46:01,694 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_12b00185-0219-4222-9651-66efe39b619c_85722_20260217_084601.jpg
+2026-02-17 08:46:01,715 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4577.57ms
+2026-02-17 08:46:03,860 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_12b00185-0219-4222-9651-66efe39b619c_85722_20260217_084601.jpg
+2026-02-17 12:22:11,677 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 12:22:11,677 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 12:22:11,677 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 12:22:11,677 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 12:22:11,677 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 12:22:11,677 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 12:27:46,403 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: ANUPAMA SINGH 2.bmp, size: 112942 bytes
+2026-02-17 12:27:57,181 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_c0a8b617-cebf-4148-95c2-a072771f2907_ANUPAMA SINGH 2.bmp
+2026-02-17 12:28:01,570 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_c0a8b617-cebf-4148-95c2-a072771f2907_ANUPAMA SINGH 2_20260217_122801.jpg
+2026-02-17 12:28:01,592 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 15189.22ms
+2026-02-17 12:28:19,890 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_c0a8b617-cebf-4148-95c2-a072771f2907_ANUPAMA SINGH 2_20260217_122801.jpg
+2026-02-17 12:28:46,977 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: ANUPAMA SINGH.bmp, size: 112942 bytes
+2026-02-17 12:28:46,979 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_58576b14-2200-4d92-bd5b-d991286b8ce5_ANUPAMA SINGH.bmp
+2026-02-17 12:28:51,923 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_58576b14-2200-4d92-bd5b-d991286b8ce5_ANUPAMA SINGH_20260217_122851.jpg
+2026-02-17 12:28:51,948 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4970.97ms
+2026-02-17 12:29:01,839 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_58576b14-2200-4d92-bd5b-d991286b8ce5_ANUPAMA SINGH_20260217_122851.jpg
+2026-02-17 12:29:22,276 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: BEAUTY SARANGI.bmp, size: 112942 bytes
+2026-02-17 12:29:22,276 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_d0cc9c51-a62d-4152-81ae-21b032b00489_BEAUTY SARANGI.bmp
+2026-02-17 12:29:26,926 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_d0cc9c51-a62d-4152-81ae-21b032b00489_BEAUTY SARANGI_20260217_122926.jpg
+2026-02-17 12:29:26,949 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4672.91ms
+2026-02-17 12:29:31,108 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_d0cc9c51-a62d-4152-81ae-21b032b00489_BEAUTY SARANGI_20260217_122926.jpg
+2026-02-17 12:29:42,126 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: BEAUTY SARANGI2.bmp, size: 112942 bytes
+2026-02-17 12:29:42,126 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_601f0573-bdc2-4e6e-8a62-bccb2db03d89_BEAUTY SARANGI2.bmp
+2026-02-17 12:29:46,475 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_601f0573-bdc2-4e6e-8a62-bccb2db03d89_BEAUTY SARANGI2_20260217_122946.jpg
+2026-02-17 12:29:46,492 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4365.78ms
+2026-02-17 12:29:49,793 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_601f0573-bdc2-4e6e-8a62-bccb2db03d89_BEAUTY SARANGI2_20260217_122946.jpg
+2026-02-17 12:30:01,998 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: FULMANI HEMBROM.bmp, size: 112942 bytes
+2026-02-17 12:30:01,998 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_00f9ccf7-b7b3-4da5-81c0-486d2575c0af_FULMANI HEMBROM.bmp
+2026-02-17 12:30:06,701 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_00f9ccf7-b7b3-4da5-81c0-486d2575c0af_FULMANI HEMBROM_20260217_123006.jpg
+2026-02-17 12:30:06,727 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4729.54ms
+2026-02-17 12:30:13,041 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_00f9ccf7-b7b3-4da5-81c0-486d2575c0af_FULMANI HEMBROM_20260217_123006.jpg
+2026-02-17 12:30:35,092 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: FULMANI HEMBROM2.bmp, size: 112942 bytes
+2026-02-17 12:30:35,092 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_a3dad557-fcc2-4be2-8bfe-892e2dd0d493_FULMANI HEMBROM2.bmp
+2026-02-17 12:30:39,616 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_a3dad557-fcc2-4be2-8bfe-892e2dd0d493_FULMANI HEMBROM2_20260217_123039.jpg
+2026-02-17 12:30:39,643 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4551.15ms
+2026-02-17 12:30:43,039 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_a3dad557-fcc2-4be2-8bfe-892e2dd0d493_FULMANI HEMBROM2_20260217_123039.jpg
+2026-02-17 12:30:59,814 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: FULMANI HEMBROM2.bmp, size: 112942 bytes
+2026-02-17 12:30:59,818 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_6a32d634-f737-4a6f-99bd-540dab01ec47_FULMANI HEMBROM2.bmp
+2026-02-17 12:31:04,686 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_6a32d634-f737-4a6f-99bd-540dab01ec47_FULMANI HEMBROM2_20260217_123104.jpg
+2026-02-17 12:31:04,709 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4895.55ms
+2026-02-17 12:31:21,209 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: JITA RANI HANSA.bmp, size: 112942 bytes
+2026-02-17 12:31:21,210 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_2e8182bd-0219-4575-94cd-538f8dabb82d_JITA RANI HANSA.bmp
+2026-02-17 12:31:25,398 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_2e8182bd-0219-4575-94cd-538f8dabb82d_JITA RANI HANSA_20260217_123125.jpg
+2026-02-17 12:31:25,424 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4214.79ms
+2026-02-17 12:31:27,419 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_2e8182bd-0219-4575-94cd-538f8dabb82d_JITA RANI HANSA_20260217_123125.jpg
+2026-02-17 12:31:39,850 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: JITA RANI HANSDA2.bmp, size: 112942 bytes
+2026-02-17 12:31:39,850 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_5e96c382-5900-4209-9bd4-5e4718ce900f_JITA RANI HANSDA2.bmp
+2026-02-17 12:31:44,260 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_5e96c382-5900-4209-9bd4-5e4718ce900f_JITA RANI HANSDA2_20260217_123144.jpg
+2026-02-17 12:31:44,281 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4432.77ms
+2026-02-17 12:31:58,064 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_5e96c382-5900-4209-9bd4-5e4718ce900f_JITA RANI HANSDA2_20260217_123144.jpg
+2026-02-17 12:32:16,373 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: KATRIN APURTY.bmp, size: 112942 bytes
+2026-02-17 12:32:16,379 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_513cf2f0-35ae-4788-b1e0-6b5d06527a74_KATRIN APURTY.bmp
+2026-02-17 12:32:20,939 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_513cf2f0-35ae-4788-b1e0-6b5d06527a74_KATRIN APURTY_20260217_123220.jpg
+2026-02-17 12:32:20,961 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4587.96ms
+2026-02-17 12:32:22,761 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_513cf2f0-35ae-4788-b1e0-6b5d06527a74_KATRIN APURTY_20260217_123220.jpg
+2026-02-17 12:32:54,840 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: KATRINA PURTY 2.bmp, size: 112942 bytes
+2026-02-17 12:32:54,842 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_51274038-1880-4397-844d-1fcf0138e8eb_KATRINA PURTY 2.bmp
+2026-02-17 12:32:59,324 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_51274038-1880-4397-844d-1fcf0138e8eb_KATRINA PURTY 2_20260217_123259.jpg
+2026-02-17 12:32:59,346 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4507.98ms
+2026-02-17 12:33:01,113 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_51274038-1880-4397-844d-1fcf0138e8eb_KATRINA PURTY 2_20260217_123259.jpg
+2026-02-17 12:33:14,828 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MANISHA BARDA.bmp, size: 112942 bytes
+2026-02-17 12:33:14,831 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_e062bd5a-67f4-4a91-bc89-a834ce5f40c4_MANISHA BARDA.bmp
+2026-02-17 12:33:19,184 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_e062bd5a-67f4-4a91-bc89-a834ce5f40c4_MANISHA BARDA_20260217_123319.jpg
+2026-02-17 12:33:19,208 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4380.52ms
+2026-02-17 12:33:21,247 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_e062bd5a-67f4-4a91-bc89-a834ce5f40c4_MANISHA BARDA_20260217_123319.jpg
+2026-02-17 12:33:37,252 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MANISHA BARDA2.bmp, size: 112942 bytes
+2026-02-17 12:33:37,252 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_7f86d001-dc18-46c7-9cf2-0f89745c5f75_MANISHA BARDA2.bmp
+2026-02-17 12:33:41,659 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_7f86d001-dc18-46c7-9cf2-0f89745c5f75_MANISHA BARDA2_20260217_123341.jpg
+2026-02-17 12:33:41,684 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4431.69ms
+2026-02-17 12:33:49,183 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_7f86d001-dc18-46c7-9cf2-0f89745c5f75_MANISHA BARDA2_20260217_123341.jpg
+2026-02-17 12:34:06,431 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MANISHA BARDA2.bmp, size: 112942 bytes
+2026-02-17 12:34:06,432 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_4e065db6-6c98-43c4-990e-cc499eb42709_MANISHA BARDA2.bmp
+2026-02-17 12:34:10,721 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_4e065db6-6c98-43c4-990e-cc499eb42709_MANISHA BARDA2_20260217_123410.jpg
+2026-02-17 12:34:10,751 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4319.41ms
+2026-02-17 12:34:27,056 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MANISHA BARDA2.bmp, size: 112942 bytes
+2026-02-17 12:34:27,059 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_fb597d55-1bd0-46df-8649-dcf0baadf48a_MANISHA BARDA2.bmp
+2026-02-17 12:34:31,585 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_fb597d55-1bd0-46df-8649-dcf0baadf48a_MANISHA BARDA2_20260217_123431.jpg
+2026-02-17 12:34:31,603 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4546.88ms
+2026-02-17 12:34:37,367 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_fb597d55-1bd0-46df-8649-dcf0baadf48a_MANISHA BARDA2_20260217_123431.jpg
+2026-02-17 12:34:59,394 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MEHAR PARWEEN.bmp, size: 112942 bytes
+2026-02-17 12:34:59,402 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_75e72d3f-980f-4fca-b3f9-6dd47fe08d72_MEHAR PARWEEN.bmp
+2026-02-17 12:35:04,234 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_75e72d3f-980f-4fca-b3f9-6dd47fe08d72_MEHAR PARWEEN_20260217_123504.jpg
+2026-02-17 12:35:04,263 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4868.85ms
+2026-02-17 12:35:06,022 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_75e72d3f-980f-4fca-b3f9-6dd47fe08d72_MEHAR PARWEEN_20260217_123504.jpg
+2026-02-17 12:35:21,272 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MEHAR PARWEEN2.bmp, size: 112942 bytes
+2026-02-17 12:35:21,272 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_7dfbc407-e890-4a96-8ca2-5f265d939475_MEHAR PARWEEN2.bmp
+2026-02-17 12:35:25,746 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_7dfbc407-e890-4a96-8ca2-5f265d939475_MEHAR PARWEEN2_20260217_123525.jpg
+2026-02-17 12:35:25,777 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4504.84ms
+2026-02-17 12:35:38,318 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_7dfbc407-e890-4a96-8ca2-5f265d939475_MEHAR PARWEEN2_20260217_123525.jpg
+2026-02-17 12:36:09,739 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: MEHAR PARWEEN2.bmp, size: 112942 bytes
+2026-02-17 12:36:09,739 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_9106d2b0-5e9f-4ad4-a1f7-9318348b99c0_MEHAR PARWEEN2.bmp
+2026-02-17 12:36:14,234 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_9106d2b0-5e9f-4ad4-a1f7-9318348b99c0_MEHAR PARWEEN2_20260217_123614.jpg
+2026-02-17 12:36:14,260 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4523.74ms
+2026-02-17 12:36:28,340 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: NISHA MAHAKUD.bmp, size: 112942 bytes
+2026-02-17 12:36:28,340 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_71c74766-8f47-4783-8bce-4b0c8ddef1c5_NISHA MAHAKUD.bmp
+2026-02-17 12:36:33,079 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_71c74766-8f47-4783-8bce-4b0c8ddef1c5_NISHA MAHAKUD_20260217_123633.jpg
+2026-02-17 12:36:33,104 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4763.83ms
+2026-02-17 12:36:36,716 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_71c74766-8f47-4783-8bce-4b0c8ddef1c5_NISHA MAHAKUD_20260217_123633.jpg
+2026-02-17 12:36:50,321 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: NISHA MAHAKUD2.bmp, size: 112942 bytes
+2026-02-17 12:36:50,324 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_d16f909f-6f7b-403b-b769-d9afe083236a_NISHA MAHAKUD2.bmp
+2026-02-17 12:36:54,849 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_d16f909f-6f7b-403b-b769-d9afe083236a_NISHA MAHAKUD2_20260217_123654.jpg
+2026-02-17 12:36:54,884 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4563.74ms
+2026-02-17 12:36:58,234 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_d16f909f-6f7b-403b-b769-d9afe083236a_NISHA MAHAKUD2_20260217_123654.jpg
+2026-02-17 12:37:09,597 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: PANO TUDU 2.bmp, size: 112942 bytes
+2026-02-17 12:37:09,599 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_6de170b7-346d-47e8-a2eb-7fb097529146_PANO TUDU 2.bmp
+2026-02-17 12:37:14,108 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_6de170b7-346d-47e8-a2eb-7fb097529146_PANO TUDU 2_20260217_123714.jpg
+2026-02-17 12:37:14,135 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4537.70ms
+2026-02-17 12:37:17,283 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_6de170b7-346d-47e8-a2eb-7fb097529146_PANO TUDU 2_20260217_123714.jpg
+2026-02-17 12:37:29,689 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: PANO TUDU.bmp, size: 112942 bytes
+2026-02-17 12:37:29,689 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_14ecad11-6f53-46d0-879d-6dd117608d96_PANO TUDU.bmp
+2026-02-17 12:37:34,325 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_14ecad11-6f53-46d0-879d-6dd117608d96_PANO TUDU_20260217_123734.jpg
+2026-02-17 12:37:34,357 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4668.14ms
+2026-02-17 12:37:35,953 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_14ecad11-6f53-46d0-879d-6dd117608d96_PANO TUDU_20260217_123734.jpg
+2026-02-17 12:37:51,061 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: SANGEETA KUMARI.bmp, size: 112942 bytes
+2026-02-17 12:37:51,063 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_f25f7373-3d56-48e2-baa8-88d5cd51f3b6_SANGEETA KUMARI.bmp
+2026-02-17 12:37:55,425 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_f25f7373-3d56-48e2-baa8-88d5cd51f3b6_SANGEETA KUMARI_20260217_123755.jpg
+2026-02-17 12:37:55,449 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4387.74ms
+2026-02-17 12:38:00,950 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_f25f7373-3d56-48e2-baa8-88d5cd51f3b6_SANGEETA KUMARI_20260217_123755.jpg
+2026-02-17 12:38:28,667 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: SANGEETA KUMARI2.bmp, size: 112942 bytes
+2026-02-17 12:38:28,675 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_01501be3-9628-4dc5-b1c0-5364e75e87f3_SANGEETA KUMARI2.bmp
+2026-02-17 12:38:33,033 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_01501be3-9628-4dc5-b1c0-5364e75e87f3_SANGEETA KUMARI2_20260217_123833.jpg
+2026-02-17 12:38:33,059 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4391.78ms
+2026-02-17 12:38:35,686 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_01501be3-9628-4dc5-b1c0-5364e75e87f3_SANGEETA KUMARI2_20260217_123833.jpg
+2026-02-17 14:23:37,234 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: ANUPAMA SINGH 2.bmp, size: 112942 bytes
+2026-02-17 14:23:37,242 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_1898b06d-f2f9-4ef2-9aac-41366633104b_ANUPAMA SINGH 2.bmp
+2026-02-17 14:23:41,825 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_1898b06d-f2f9-4ef2-9aac-41366633104b_ANUPAMA SINGH 2_20260217_142341.jpg
+2026-02-17 14:23:41,851 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4616.86ms
+2026-02-17 14:43:11,758 - app.main - INFO - lifespan:33 - Shutting down application
+2026-02-17 15:00:49,785 - app.main - INFO - lifespan:22 - ==================================================
+2026-02-17 15:00:49,786 - app.main - INFO - lifespan:23 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 15:00:49,787 - app.main - INFO - lifespan:24 - Environment: development
+2026-02-17 15:00:49,788 - app.main - INFO - lifespan:25 - Debug: True
+2026-02-17 15:00:49,788 - app.main - INFO - lifespan:26 - ==================================================
+2026-02-17 15:00:49,790 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 15:00:49,842 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: anshu mala trainer fd2.bmp, size: 112942 bytes
+2026-02-17 15:01:00,824 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_33670c12-d8a2-4737-aaac-1ca5f6862791_anshu mala trainer fd2.bmp
+2026-02-17 15:01:04,837 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_33670c12-d8a2-4737-aaac-1ca5f6862791_anshu mala trainer fd2_20260217_150104.jpg
+2026-02-17 15:01:04,861 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 15019.39ms
+2026-02-17 15:01:04,866 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: anshu mala trainer fd2.bmp, size: 112942 bytes
+2026-02-17 15:01:04,869 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_f9032afd-9e91-4959-a808-089d5b448ab6_anshu mala trainer fd2.bmp
+2026-02-17 15:01:09,573 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_f9032afd-9e91-4959-a808-089d5b448ab6_anshu mala trainer fd2_20260217_150109.jpg
+2026-02-17 15:01:09,602 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4736.09ms
+2026-02-17 15:05:46,154 - app.main - INFO - lifespan:33 - Shutting down application
+2026-02-17 15:05:47,172 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-17 15:05:47,172 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-17 15:05:47,172 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-17 15:05:47,172 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-17 15:05:47,175 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-17 15:05:47,175 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-17 15:20:27,213 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: anshu mala trainer fd2.bmp, size: 112942 bytes
+2026-02-17 15:20:27,783 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_3bc983ff-e688-4764-b1b8-4a7039d0112f_anshu mala trainer fd2.bmp
+2026-02-17 15:20:30,001 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_3bc983ff-e688-4764-b1b8-4a7039d0112f_anshu mala trainer fd2_20260217_152029.jpg
+2026-02-17 15:20:30,015 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 2801.38ms
+2026-02-17 15:20:39,605 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_3bc983ff-e688-4764-b1b8-4a7039d0112f_anshu mala trainer fd2_20260217_152029.jpg
+2026-02-17 15:21:13,878 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: madhu kumari.bmp, size: 112942 bytes
+2026-02-17 15:21:13,880 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_e2242634-6af9-44df-8b56-78264c91ad83_madhu kumari.bmp
+2026-02-17 15:21:15,962 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_e2242634-6af9-44df-8b56-78264c91ad83_madhu kumari_20260217_152115.jpg
+2026-02-17 15:21:15,975 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 2096.40ms
+2026-02-17 15:21:18,332 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_e2242634-6af9-44df-8b56-78264c91ad83_madhu kumari_20260217_152115.jpg
+2026-02-17 15:48:39,191 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: mamta kumari (2).bmp, size: 112942 bytes
+2026-02-17 15:48:39,193 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_816d147e-8a55-4de7-aead-2c8b9fa9c97b_mamta kumari (2).bmp
+2026-02-17 15:48:44,146 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_816d147e-8a55-4de7-aead-2c8b9fa9c97b_mamta kumari (2)_20260217_154844.jpg
+2026-02-17 15:48:44,183 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4992.19ms
+2026-02-17 15:48:47,377 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_816d147e-8a55-4de7-aead-2c8b9fa9c97b_mamta kumari (2)_20260217_154844.jpg
+2026-02-17 15:49:13,452 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: neha kumari (5).bmp, size: 112942 bytes
+2026-02-17 15:49:13,452 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_8a3f4a17-2748-4916-b80f-10bc30741e37_neha kumari (5).bmp
+2026-02-17 15:49:17,787 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_8a3f4a17-2748-4916-b80f-10bc30741e37_neha kumari (5)_20260217_154917.jpg
+2026-02-17 15:49:17,810 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4358.48ms
+2026-02-17 15:49:19,440 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_8a3f4a17-2748-4916-b80f-10bc30741e37_neha kumari (5)_20260217_154917.jpg
+2026-02-17 15:49:39,892 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: neha marandi (2).bmp, size: 112942 bytes
+2026-02-17 15:49:39,910 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_6fdb0fde-9203-4e6c-9126-651edb2a1dd6_neha marandi (2).bmp
+2026-02-17 15:49:44,769 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_6fdb0fde-9203-4e6c-9126-651edb2a1dd6_neha marandi (2)_20260217_154944.jpg
+2026-02-17 15:49:44,794 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4902.64ms
+2026-02-17 15:49:46,842 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_6fdb0fde-9203-4e6c-9126-651edb2a1dd6_neha marandi (2)_20260217_154944.jpg
+2026-02-17 15:50:08,659 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: nisha kumari (2).bmp, size: 112942 bytes
+2026-02-17 15:50:08,659 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_cf0fc7ea-f513-4b67-baf5-b7cf67f61f43_nisha kumari (2).bmp
+2026-02-17 15:50:13,497 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_cf0fc7ea-f513-4b67-baf5-b7cf67f61f43_nisha kumari (2)_20260217_155013.jpg
+2026-02-17 15:50:13,527 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4867.87ms
+2026-02-17 15:50:15,907 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_cf0fc7ea-f513-4b67-baf5-b7cf67f61f43_nisha kumari (2)_20260217_155013.jpg
+2026-02-17 15:50:45,446 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: priyanka56 (5).bmp, size: 112942 bytes
+2026-02-17 15:50:45,451 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_f636fd24-5d4e-4c04-8cb7-40824ea8ae1e_priyanka56 (5).bmp
+2026-02-17 15:50:49,995 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_f636fd24-5d4e-4c04-8cb7-40824ea8ae1e_priyanka56 (5)_20260217_155049.jpg
+2026-02-17 15:50:50,029 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4582.92ms
+2026-02-17 15:50:53,609 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_f636fd24-5d4e-4c04-8cb7-40824ea8ae1e_priyanka56 (5)_20260217_155049.jpg
+2026-02-17 15:51:18,581 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: podina kumari (3).bmp, size: 112942 bytes
+2026-02-17 15:51:18,596 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_01c42eee-1ea9-450c-b0c1-90704673bf21_podina kumari (3).bmp
+2026-02-17 15:51:23,489 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_01c42eee-1ea9-450c-b0c1-90704673bf21_podina kumari (3)_20260217_155123.jpg
+2026-02-17 15:51:23,519 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4937.85ms
+2026-02-17 15:51:26,391 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_01c42eee-1ea9-450c-b0c1-90704673bf21_podina kumari (3)_20260217_155123.jpg
+2026-02-17 15:52:02,768 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: ranchana kumari (2).bmp, size: 112942 bytes
+2026-02-17 15:52:02,768 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_d9a6a71b-ae21-4b0b-99c0-66300033c7f3_ranchana kumari (2).bmp
+2026-02-17 15:52:07,188 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_d9a6a71b-ae21-4b0b-99c0-66300033c7f3_ranchana kumari (2)_20260217_155207.jpg
+2026-02-17 15:52:07,232 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4464.01ms
+2026-02-17 15:52:09,128 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_d9a6a71b-ae21-4b0b-99c0-66300033c7f3_ranchana kumari (2)_20260217_155207.jpg
+2026-02-17 15:52:35,704 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: salma tudu (4).bmp, size: 112942 bytes
+2026-02-17 15:52:35,704 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_b55d6a99-9aa3-4aa0-9f57-3363d301c404_salma tudu (4).bmp
+2026-02-17 15:52:40,414 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_b55d6a99-9aa3-4aa0-9f57-3363d301c404_salma tudu (4)_20260217_155240.jpg
+2026-02-17 15:52:40,447 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4742.37ms
+2026-02-17 15:52:46,179 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_b55d6a99-9aa3-4aa0-9f57-3363d301c404_salma tudu (4)_20260217_155240.jpg
+2026-02-17 15:53:11,068 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: sanjan kumari (4).bmp, size: 112942 bytes
+2026-02-17 15:53:11,068 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_41a0ecf3-e3cf-43d8-b46c-ab0345bea35b_sanjan kumari (4).bmp
+2026-02-17 15:53:15,961 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_41a0ecf3-e3cf-43d8-b46c-ab0345bea35b_sanjan kumari (4)_20260217_155315.jpg
+2026-02-17 15:53:15,984 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4915.93ms
+2026-02-17 15:53:17,695 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_41a0ecf3-e3cf-43d8-b46c-ab0345bea35b_sanjan kumari (4)_20260217_155315.jpg
+2026-02-17 15:53:39,666 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: SAH (5).bmp, size: 112942 bytes
+2026-02-17 15:53:39,668 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_0fcae32d-ebf7-4e56-bcba-a09464d64948_SAH (5).bmp
+2026-02-17 15:53:44,468 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_0fcae32d-ebf7-4e56-bcba-a09464d64948_SAH (5)_20260217_155344.jpg
+2026-02-17 15:53:44,497 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4830.93ms
+2026-02-17 15:53:46,521 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_0fcae32d-ebf7-4e56-bcba-a09464d64948_SAH (5)_20260217_155344.jpg
+2026-02-17 15:54:08,194 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: SAH (2).bmp, size: 112942 bytes
+2026-02-17 15:54:08,196 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_e04ad818-3bb2-4ef7-abfa-588ddf6b91b1_SAH (2).bmp
+2026-02-17 15:54:12,854 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_e04ad818-3bb2-4ef7-abfa-588ddf6b91b1_SAH (2)_20260217_155412.jpg
+2026-02-17 15:54:12,872 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4677.94ms
+2026-02-17 15:54:14,881 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_e04ad818-3bb2-4ef7-abfa-588ddf6b91b1_SAH (2)_20260217_155412.jpg
+2026-02-17 15:54:43,405 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: usha kumari (4).bmp, size: 112942 bytes
+2026-02-17 15:54:43,407 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_c4146f71-9615-4349-b986-6f01d80a8524_usha kumari (4).bmp
+2026-02-17 15:54:48,009 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_c4146f71-9615-4349-b986-6f01d80a8524_usha kumari (4)_20260217_155448.jpg
+2026-02-17 15:54:48,037 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4632.66ms
+2026-02-17 15:55:07,701 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: usha kumari (4).bmp, size: 112942 bytes
+2026-02-17 15:55:07,703 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_2544d309-3087-4ad3-bf1e-f331dce972eb_usha kumari (4).bmp
+2026-02-17 15:55:12,421 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_2544d309-3087-4ad3-bf1e-f331dce972eb_usha kumari (4)_20260217_155512.jpg
+2026-02-17 15:55:12,441 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 4740.12ms
+2026-02-17 15:55:14,901 - app.routes.enhancement - INFO - download_enhanced_image:111 - Downloading file: enhanced_temp_2544d309-3087-4ad3-bf1e-f331dce972eb_usha kumari (4)_20260217_155512.jpg
+2026-02-17 16:41:25,350 - app.routes.enhancement - INFO - enhance_fingerprint:46 - Processing file: usha kumari (3).bmp, size: 112942 bytes
+2026-02-17 16:41:25,361 - app.utils - INFO - process_fingerprint_image:47 - Starting image enhancement: uploads\temp_9e0da6f1-66fd-4e3e-96b7-6707e35fd02d_usha kumari (3).bmp
+2026-02-17 16:41:30,839 - app.utils - INFO - process_fingerprint_image:85 - Image enhancement completed: ./enhanced\enhanced_temp_9e0da6f1-66fd-4e3e-96b7-6707e35fd02d_usha kumari (3)_20260217_164130.jpg
+2026-02-17 16:41:30,861 - app.routes.enhancement - INFO - enhance_fingerprint:68 - Enhancement completed in 5511.70ms
+2026-02-18 01:10:43,537 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-18 01:10:43,538 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-18 01:10:43,539 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-18 01:10:43,539 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-18 01:10:43,540 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-18 01:10:43,542 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-18 22:49:40,061 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-18 22:49:40,062 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-18 22:49:40,062 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-18 22:49:40,063 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-18 22:49:40,063 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-18 22:49:40,064 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-19 10:05:21,626 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-19 10:05:21,629 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-19 10:05:21,629 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-19 10:05:21,630 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-19 10:05:21,631 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-19 10:05:21,632 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-19 10:05:21,638 - app.main - INFO - lifespan:31 - Shutting down application
+2026-02-19 10:19:50,921 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-19 10:19:50,922 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-19 10:19:50,923 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-19 10:19:50,924 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-19 10:19:50,925 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-19 10:19:50,926 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-19 10:19:50,929 - app.main - INFO - lifespan:31 - Shutting down application
+2026-02-19 10:22:21,045 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-19 10:22:21,046 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-19 10:22:21,046 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-19 10:22:21,047 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-19 10:22:21,048 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-19 10:22:21,049 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced
+2026-02-19 10:22:35,392 - app.main - INFO - lifespan:31 - Shutting down application
+2026-02-19 10:23:00,817 - app.main - INFO - lifespan:21 - ==================================================
+2026-02-19 10:23:00,818 - app.main - INFO - lifespan:22 - Starting Fingerprint Enhancer API v1.0.0
+2026-02-19 10:23:00,819 - app.main - INFO - lifespan:23 - Environment: production
+2026-02-19 10:23:00,820 - app.main - INFO - lifespan:24 - Debug: False
+2026-02-19 10:23:00,821 - app.main - INFO - lifespan:25 - ==================================================
+2026-02-19 10:23:00,823 - app.utils - INFO - ensure_directories_exist:18 - Directories ensured: ./uploads, ./enhanced

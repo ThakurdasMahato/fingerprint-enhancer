@@ -1,0 +1,47 @@
+.message {
+  padding: 15px 20px;
+  border-radius: 8px;
+  border-left: 4px solid;
+  animation: slideIn 0.3s ease;
+  margin-bottom: 20px;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.message-success {
+  background: #dcfce7;
+  color: #166534;
+  border-left-color: #10b981;
+}
+
+.message-error {
+  background: #fee2e2;
+  color: #991b1b;
+  border-left-color: #ef4444;
+}
+
+.message-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.message-icon {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.message-content p {
+  margin: 0;
+  font-weight: 500;
+}

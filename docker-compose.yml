@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: fingerprint-backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend/uploads:/app/uploads
+      - ./backend/enhanced:/app/enhanced
+      - ./backend/logs:/app/logs
+    environment:
+      - FASTAPI_ENV=development
+      - DEBUG=True
+      - LOG_LEVEL=INFO
+      - API_HOST=0.0.0.0
+      - API_PORT=5000
+      - CORS_ORIGINS=["http://localhost:3000", "http://localhost:5000"]
+    networks:
+      - fingerprint-network
+    depends_on:
+      - backend
+
+  frontend:
+    build:
+      context: ./fingerprint-web/client
+      dockerfile: Dockerfile
+    container_name: fingerprint-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:5000
+    networks:
+      - fingerprint-network
+    depends_on:
+      - backend
+
+networks:
+  fingerprint-network:
+    driver: bridge

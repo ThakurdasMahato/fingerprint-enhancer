@@ -1,0 +1,4 @@
+venv\Scripts\activate[FORMAT]
+max-line-length = 130
+generated-members = cv2.*
+disable = W0621,W0221,R0903,R0801,E0401

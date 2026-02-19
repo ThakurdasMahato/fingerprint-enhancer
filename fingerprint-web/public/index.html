@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fingerprint Enhancer - Modern UI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+                        <circle cx="20" cy="20" r="18" stroke="#6366f1" stroke-width="2"/>
+                        <path d="M15 20C15 17.2 17.2 15 20 15C22.8 15 25 17.2 25 20" stroke="#6366f1" stroke-width="2" fill="none"/>
+                        <circle cx="20" cy="20" r="3" fill="#6366f1"/>
+                    </svg>
+                    <h1>Fingerprint Enhancer</h1>
+                </div>
+                <p class="subtitle">Advanced fingerprint image enhancement using Gabor filters</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="card upload-card">
+                <div class="upload-section">
+                    <div class="upload-box" id="uploadBox">
+                        <svg class="upload-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                        <h2>Upload Fingerprint Image</h2>
+                        <p>Drag and drop your image or click to select</p>
+                        <p class="file-info">Supported: JPEG, PNG, BMP</p>
+                        <input type="file" id="fileInput" accept=".jpg,.jpeg,.png,.bmp" hidden>
+                    </div>
+                    <button class="btn btn-primary" id="selectBtn">Select Image</button>
+                </div>
+            </div>
+
+            <!-- Preview Section -->
+            <div class="preview-section" id="previewSection" style="display: none;">
+                <div class="image-comparison">
+                    <div class="image-wrapper original">
+                        <img id="originalImage" src="" alt="Original image">
+                        <label>Original Image</label>
+                    </div>
+                    <div class="divider"></div>
+                    <div class="image-wrapper enhanced">
+                        <img id="enhancedImage" src="" alt="Enhanced image">
+                        <label>Enhanced Image</label>
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button class="btn btn-secondary" id="resetBtn">Reset</button>
+                    <button class="btn btn-success" id="downloadBtn">Download Enhanced Image</button>
+                </div>
+            </div>
+
+            <!-- Loading Spinner -->
+            <div class="loading" id="loading" style="display: none;">
+                <div class="spinner"></div>
+                <p>Enhancing your fingerprint image...</p>
+            </div>
+
+            <!-- Status Messages -->
+            <div class="message" id="message" style="display: none;"></div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 Fingerprint Enhancer. Uses oriented Gabor filter bank for image enhancement.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
